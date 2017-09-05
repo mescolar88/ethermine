@@ -1,0 +1,2 @@
+# ethermine
+ethereum configuration scripts
